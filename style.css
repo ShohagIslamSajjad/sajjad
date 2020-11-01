@@ -1,0 +1,14 @@
+body {
+  height: 100vh;
+  background-color: grey;
+}
+
+.ourDiv {
+  height: 10rem;
+  width: 20rem;
+  background-color: white;
+}
+
+.black-bg {
+  background-color: black;
+}

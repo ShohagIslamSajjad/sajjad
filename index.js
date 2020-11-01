@@ -1,13 +1,55 @@
-let text1 = document.querySelector(".text");
-let text2 = document.querySelector(".text2");
-let btn = document.querySelector(".btn");
-let input = document.querySelector(".input");
+// const form = document.querySelector("form");
 
-btn.addEventListener("click", function () {
-  text2.innerHTML = input.value;
-});
+// form.addEventListener("submit", function (e) {
+//   event.preventDefault();
 
-{
-  let variable1 = 10;
-  console.log(variable1);
-}
+// });
+
+// const num1 = 4;
+
+// if (num1 > 5) {
+//   console.log("the number is 5");
+// } else {
+//   console.log("the number is not five");
+// }
+
+// const btn = document.querySelector("button");
+
+// let darkmode = true;
+
+// btn.addEventListener("click", function () {
+//   if (darkmode === true) {
+//     darkmode = false;
+//   } else if (darkmode === false) {
+//     darkmode = true;
+//   }
+
+//   if (darkmode === true) {
+//     document.body.style.backgroundColor = "white";
+//   } else {
+//     document.body.style.backgroundColor = "black";
+//   }
+
+//   console.log(darkmode);
+// });
+
+// const div = document.querySelector(".ourDiv");
+// console.log(div);
+
+// const btn = document.querySelector("button");
+
+// btn.addEventListener("click", function () {
+//   div.classList.add("black-bg");
+// });
+
+// 100 <= 20%
+// 100-200 15%
+// 200 10%
+
+// let friend = ["abid", "sajjad", "shohag"];
+
+// let family = {
+//   father: "abul kalam",
+//   mother: "arjuman",
+//   brother: "abid",
+// };
